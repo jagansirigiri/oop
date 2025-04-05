@@ -7,7 +7,7 @@ public class Main {
         PrescriptionList.runTests();
         System.out.println("###################################");
      
-        System.out.println("All Tests Completed!");
+        System.out.println("All Tests Completed!!!");
        
     }
 	
